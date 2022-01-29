@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    text-shadow: 5px 5px 5px greenyellow;
+}
+.add-div{
+    border: 1px solid black;
+    border-radius: 10px;
+    
+    height: 150px;
+    
+
+    
+}
+.add{
+    margin-top: 15px;
+}
+.table{
+margin-top: 15px;
+}
+.navbar{
+    margin-top: 15px;
+
+}
